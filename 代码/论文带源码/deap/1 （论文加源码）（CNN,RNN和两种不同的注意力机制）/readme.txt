@@ -1,0 +1,1 @@
+一些代码在DEAP上进行情感识别（RNN，CRNN，VIT，MLPMixer，Fnet，GNN）
